@@ -12,13 +12,10 @@
   color: var(--text-02);
 }
 
-.contact {
+.contact__address {
   display: flex;
   justify-content: flex-end;
   margin-top: -20px;
-}
-
-.contact__address {
   font-family: var(--text-font);
   font-style: normal;
   font-weight: 400;
